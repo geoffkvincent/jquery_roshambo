@@ -1,0 +1,37 @@
+/* # = id 
+. = class */
+
+#title {
+  display: none;
+  color: blue;
+  justify-content: space-around;
+  padding: 70px 70px 20px;
+  font-size: 50px;
+}
+
+.choice{
+  height: 130px;
+  width: 130px;
+  display: none;
+  border-radius: 45px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  color: blue;
+
+}
+
+
+#win {
+  display: none;
+}
+
+#lose {
+  display: none;
+}
+
+#tie {
+  display: none;
+}
